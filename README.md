@@ -61,11 +61,11 @@
    - commit 메시지:`add #29,py`
    - 기능: lim = {'korean': 94, 'english': 91, 'mathematics': 89, 'science': 83}의 dictionary을 선언하고, key와 value를 모두 출력
      
-    lim = {'korean': 94, 'english': 91, 'mathematics': 89, 'science': 83}
+     lim = {'korean': 94, 'english': 91, 'mathematics': 89, 'science': 83}
    
-    for key, value in lim.items():
+     for key, value in lim.items():
    
-        print(key, value)
+         print(key, value)
 
 
 10. **여섯 번째 commit**
